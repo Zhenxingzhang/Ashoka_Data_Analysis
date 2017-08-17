@@ -3,11 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
 # C extensions
 *.so
 
 data/
 *.csv
+*.DS_Store
 
 # Distribution / packaging
 .Python
